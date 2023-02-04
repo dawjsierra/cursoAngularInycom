@@ -1,0 +1,34 @@
+form{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-left: 2%;
+    margin-right: 2%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(186,197,112);
+    border-radius: 5px;
+}
+
+span{
+    display: flex;
+    flex-direction: column;
+    margin: 4%
+}
+input{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+label{
+    text-align: center;
+}
+
+.botones{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 20%;
+}

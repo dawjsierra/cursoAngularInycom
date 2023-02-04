@@ -1,0 +1,13 @@
+
+
+#header{
+    display: flex;
+    flex-direction: row;
+    background-color: white;
+}
+
+#cuerpo{
+    display: flex;
+    flex-direction: row;
+    margin-top: 5%;
+}
